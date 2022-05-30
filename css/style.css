@@ -21,3 +21,7 @@ body{
    height: fit-content;
    padding: 20px 20px;
 }
+
+.row.h-100{
+   height: 100px;
+}
