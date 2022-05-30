@@ -3,6 +3,7 @@ body{
 }
 
 [class*="col-"], .col{
+   height: 60px;
    padding: 20px;
    color: white;
    border: 1px solid white;
@@ -16,3 +17,6 @@ body{
    border-color: blue;
 }
 
+.row.h-fit{
+   height: fit-content;
+}
