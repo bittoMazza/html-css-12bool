@@ -1,0 +1,18 @@
+body{
+   background-color: white
+}
+
+[class*="col-"], .col{
+   padding: 20px;
+   color: white;
+   border: 1px solid white;
+   background-color: blue;
+   text-align: center;
+}
+
+
+.nested{
+   background-color: rgb(35, 221, 35);
+   border-color: blue;
+}
+
